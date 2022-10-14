@@ -9,6 +9,17 @@
   "categories": [
     "Themes"
   ],
+  "publisher": "jose78",
+  "icon": "icons/icon.png",
+  "author": {
+    "name": "Jose Clavero Anderica",
+    "email": "jose.clavero.anderica@gmail.com",
+    "url": "https://www.linkedin.com/in/joseclaveroanderica/"
+  },
+  "repository": {
+    "url": "https://github.com/jose78/vscode-themne-relaxing-cup-of-cafe-con-leche.git",
+    "type": "git"
+  },
   "contributes": {
     "themes": [
       {

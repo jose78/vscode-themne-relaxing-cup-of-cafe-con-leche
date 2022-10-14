@@ -1819,7 +1819,7 @@
     "editor.background": "#1e1e1e",
     "editor.foreground": "#d4d4d4",
     "editorLineNumber.foreground": "#858585",
-    "editorCursor.foreground": "#000000",
+    "editorCursor.foreground": "#ff8800",
     "editorCursor.background": "#ffffff",
     "editor.selectionBackground": "#264f78",
     "editor.inactiveSelectionBackground": "#3a3d41",
