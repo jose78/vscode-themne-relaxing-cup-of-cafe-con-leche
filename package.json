@@ -1,0 +1,21 @@
+{
+  "name": "relaxing-cup-of-cafe-con-leche",
+  "displayName": "relaxing cup of cafe con leche",
+  "description": "Dark and ligth editor",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Relaxing Cup Of Cafe Con Leche",
+        "uiTheme": "vs",
+        "path": "./themes/Relaxing Cup Of Cafe Con Leche-color-theme.json"
+      }
+    ]
+  }
+}
