@@ -2,13 +2,24 @@
   "name": "relaxing-cup-of-cafe-con-leche",
   "displayName": "relaxing cup of cafe con leche",
   "description": "Dark and ligth editor",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.72.0"
   },
   "categories": [
     "Themes"
   ],
+  "publisher": "jose78",
+  "icon": "resource/icons/icon.png",
+  "author": {
+    "name": "Jose Clavero Anderica",
+    "email": "jose.clavero.anderica@gmail.com",
+    "url": "https://www.linkedin.com/in/joseclaveroanderica/"
+  },
+  "repository": {
+    "url": "https://github.com/jose78/vscode-themne-relaxing-cup-of-cafe-con-leche.git",
+    "type": "git"
+  },
   "contributes": {
     "themes": [
       {
