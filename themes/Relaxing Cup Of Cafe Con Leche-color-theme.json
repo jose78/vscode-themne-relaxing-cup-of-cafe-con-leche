@@ -1748,7 +1748,7 @@
     }
   ],
   "colors": {
-    "foreground": "#d4d4d4", 
+    "foreground": "#858585",
     "focusBorder": "#0090f1",
     "selection.background": "#b0daff",
     "scrollbar.shadow": "#dddddd",
@@ -1889,7 +1889,7 @@
     "terminal.ansiBrightGreen": "#14ce14",
     "terminal.ansiBrightMagenta": "#bc05bc",
     "terminal.ansiBrightRed": "#cd3131",
-    "terminal.ansiBrightWhite": "#a5a5a5",
+    "terminal.ansiBrightWhite": "#a5a5a5", // "#a5a5a5",
     "terminal.ansiBrightYellow": "#b5ba00",
     "terminal.ansiCyan": "#0598bc",
     "terminal.ansiGreen": "#00bc00",
@@ -2000,6 +2000,18 @@
     "breadcrumb.activeSelectionForeground": "#4e4e4e",
     "editorGutter.commentRangeForeground": "#c5c5c5",
     "debugExceptionWidget.background": "#f3f3f3",
-    "debugExceptionWidget.border": "#d5d5d5"
+    "debugExceptionWidget.border": "#d5d5d5",
+    "welcomePage.progress.background": "#ff0000",
+    "welcomePage.progress.foreground": "#5eff00",
+    "welcomePage.tileBackground": "#4e4e4e",
+    "welcomePage.tileHoverBackground": "#00000050",
+    "welcomePage.tileShadow": "#ff0000",
+    "welcomePage.background": "#fffffffe",
+    "extensionIcon.verifiedForeground": "#47cf90",
+    "debugConsole.infoForeground": "#96b0f9",
+    "debugConsole.errorForeground": "#0044ff",
+    "debugConsole.sourceForeground": "#dd1fc4",
+    "debugConsole.warningForeground": "#dfdb0c",
+    "debugConsoleInputIcon.foreground": "#215200"
   }
 }
